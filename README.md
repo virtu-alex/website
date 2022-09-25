@@ -1,24 +1,12 @@
-# website
+# Google replica
+![site](.readme/site.png)
 
-## Project setup
-```
-npm install
-```
+# Dipendenze
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- bootstrap
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Assegnazione
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- rosso->virtu-alex
+- verde->bitwizzz
+- blue->torone89
